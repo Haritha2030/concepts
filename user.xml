@@ -1,0 +1,34 @@
+<Students>
+<Student>
+    <Name>hari</Name>
+    <Email>harithac800@gmail.com</Email>
+    <Addresses> 
+        <PermAddress>
+            <AddressLine1>marathalli</AddressLine2>
+            <AddressLine1>beml layout</AddressLine2>
+            <Street>vivekananda street</Street>
+        </PermAddress>
+        <CurrentAddress>
+            <AddressLine1>marathalli</AddressLine2>
+            <AddressLine1>beml layout</AddressLine2>
+            <Street>vivekananda street</Street>
+        </CurrentAddress>
+    </Addresses>
+</Student>
+<Student>
+    <Name>reethu</Name>
+    <Email>harithac800@gmail.com</Email>
+    <Addresses> 
+        <PermAddress>
+            <AddressLine1>marathalli</AddressLine2>
+            <AddressLine1>beml layout</AddressLine2>
+            <Street>vivekananda street</Street>
+        </PermAddress>
+        <CurrentAddress>
+            <AddressLine1>marathalli</AddressLine2>
+            <AddressLine1>beml layout</AddressLine2>
+            <Street>vivekananda street</Street>
+        </CurrentAddress>
+    </Addresses>
+</Student>
+</Students>
